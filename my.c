@@ -2,3 +2,6 @@
 viod main()
 {
 }
+char i;
+
+#include <io.h>
